@@ -15,7 +15,7 @@
     "react-dom": "^16.2.0",
     "react-json-pretty": "^1.7.5",
     "react-vega": "^4.0.2",
-    "vega": "5.4.0",
+    "vega": "5.17.3",
     "vega-lite": "3.3.0",
     "vega-tooltip": "0.6.1"
   },
