@@ -115,7 +115,7 @@ if __name__ == '__main__':
     install_requires = [
         "coremltools==3.0b3",
         "decorator >= 4.0.9",
-        "numpy==1.16.4",
+        "numpy==1.22.0",
         "pandas >= 0.23.2",
         "pillow >= 5.2.0",
         "prettytable == 0.7.2",
